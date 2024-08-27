@@ -1,0 +1,23 @@
+{
+  "name": "book-crud-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaBabchenko1/book-crud-api.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaBabchenko1/book-crud-api/issues"
+  },
+  "homepage": "https://github.com/VictoriaBabchenko1/book-crud-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
